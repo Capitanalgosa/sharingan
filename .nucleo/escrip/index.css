@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}   
+.nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+}
+.nav div {
+    width: 50%;
+}
+.nav img {
+    max-width: 30%;
+    margin-left: 35%;
+}
